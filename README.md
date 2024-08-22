@@ -1,1 +1,1 @@
-<img src="/Assets/Foto-Site.png" alt="Foto do site">
+<img src="Foto-Site.png" alt="Foto do site">
